@@ -1,0 +1,13 @@
+{
+  "id": "gkdnzz31/knee-eval-224mirror",
+  "title": "knee-eval-224mirror",
+  "code_file": "eval_224mirror.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": ["gkdnzz31/knee-code", "gkdnzz31/knee-labels", "nartaa/rsna-knee-publication-swa-weights-20261007"],
+  "competition_sources": [],
+  "kernel_sources": ["gkdnzz31/knee-build-cache-coat96-0", "gkdnzz31/knee-build-cache-coat96-1"]
+}

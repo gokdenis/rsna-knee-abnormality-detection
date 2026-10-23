@@ -1,0 +1,9 @@
+kaggle>=2.2
+numpy
+pandas
+pyarrow
+scikit-learn
+torch
+timm
+opencv-python-headless
+pydicom

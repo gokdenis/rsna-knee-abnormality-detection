@@ -1,0 +1,13 @@
+{
+  "id": "gkdnzz31/knee-build-cache-coat96-0",
+  "title": "knee-build-cache-coat96-0",
+  "code_file": "build_cache.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["gkdnzz31/knee-code"],
+  "competition_sources": ["rsna-knee-abnormality-detection"],
+  "kernel_sources": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gkdnzz31/knee-build-cache-raptor",
+  "title": "knee-build-cache-raptor",
+  "code_file": "build_cache.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["gkdnzz31/knee-code"],
+  "competition_sources": ["rsna-knee-abnormality-detection"],
+  "kernel_sources": []
+}

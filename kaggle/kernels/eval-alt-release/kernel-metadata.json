@@ -1,0 +1,22 @@
+{
+  "id": "gkdnzz31/knee-eval-alt-release",
+  "title": "knee-eval-alt-release",
+  "code_file": "eval_alt.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [
+    "gkdnzz31/knee-code",
+    "gkdnzz31/knee-labels",
+    "gkdnzz31/knee-coat96-oai-g",
+    "nartaa/rsna-knee-publication-swa-weights-20261007"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "gkdnzz31/knee-build-cache-coat96-0",
+    "gkdnzz31/knee-build-cache-coat96-1",
+    "gkdnzz31/knee-build-cache-coat96alt"
+  ]
+}

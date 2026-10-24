@@ -1,0 +1,2 @@
+LAYOUT = "coat96"
+SHARD, N_SHARDS = 1, 2

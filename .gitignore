@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Data and artifacts (competition data must not be redistributed)
+data/
+outputs/
+*.npy
+*.npz
+*.parquet
+*.pt
+*.pth
+*.dcm
+
+# Credentials
+kaggle.json
+access_token
+.env
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# local notes, not part of the project
+docs/REVIEW_*.md
+docs/SCORE_IDEAS_*.md
+docs/NDA_STUDY_*.md

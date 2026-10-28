@@ -316,7 +316,8 @@ Oct 22: `knee-final-b-ralt-a10` (A96 0.1 outside the pre-registered findings) an
 the pre-registered findings) both 0.959 and both below final-b-ralt on the marker. Raising or lowering the soup share
 does not beat the pre-registered weights; finals stay final-b-ralt + final-a-ralt (verified 2/2 after reload).
 
-**Private LB (Oct 23, preliminary):** 0.943, rank 345 / 6425 (public 223, so 122 places down). Every submission
+**Private LB (Oct 23, preliminary):** 0.943, rank 345 / 6425 (public 223, so 122 places down). **Final standings
+(Oct 28, after Kaggle's verification): rank 325 / 6,299, bronze medal (public rank 218).** Every submission
 from Oct 16 on, finals and probes alike, scored 0.943 private; the three-way blends 0.941, the soup alone 0.933, the
 public 0.9576 base 0.941. On that base the matched pair G0 (competition targets only) and G1 (+ OAI MOAKS) both
 scored 0.942 private, so fine-tuning itself gave +0.001 and the OAI effect is not visible at three decimals; the

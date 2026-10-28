@@ -2,7 +2,7 @@
 
 Read 2026-10-24 from the published write-ups: 2nd place (private 0.960), 5th (0.958), 7th (0.957, single model, no
 external training data) and team Northstar (671st, 0.942: same public base as ours). Our result: private 0.943,
-rank 345 / 6,425.
+rank 325 / 6,299 (bronze).
 
 ## The common recipe of the top solutions
 

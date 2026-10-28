@@ -3,9 +3,8 @@
 Solution code and notes for the Kaggle [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)
 competition (2026): predict 12 abnormalities per knee MRI study, scored by macro ROC AUC.
 
-**Result: private LB 0.943, rank 345 of 6,425 teams (top 5.4%, bronze-medal zone; standings pending final
-verification). Public LB 0.959.** Built in the last ten days of a two-month competition, on Kaggle GPUs plus about
-$50 of rented GPU time.
+**Result: bronze medal. Private LB 0.943, rank 325 of 6,299 teams (top 5.2%, final standings). Public LB 0.959.**
+Built in the last ten days of a two-month competition, on Kaggle GPUs plus about $50 of rented GPU time.
 
 ## What this repo shows
 
@@ -68,7 +67,7 @@ leaderboard's three-decimal precision.
 
 - Everyone lost about 0.01 from public to private. This entry lost 0.016, exactly as much as the public base
   ensemble it was built on; that base's per-finding weights had been chosen on the public leaderboard.
-- 256 teams scored at least 0.959 on the public leaderboard, many with the same public base, so a public rank of 223
+- 248 teams scored at least 0.959 on the public leaderboard, many with the same public base, so a public rank of 218
   overstated the position.
 - The top solutions rebuilt the training labels with vision LLMs that read the images and trained their own
   0.954-0.958 models on them ([docs/TOP_SOLUTIONS.md](docs/TOP_SOLUTIONS.md)); we built on public labels and models.

@@ -1,7 +1,7 @@
-# RSNA Knee Abnormality Detection — solution summary (team YVL)
+# RSNA Knee Abnormality Detection — solution summary
 
-Public LB 0.959 (rank 223 of 6,425). Private LB 0.943, rank 345 of 6,425 (top 5.4%, bronze range; preliminary
-until Kaggle verifies the results). Both finals and every late candidate scored 0.943 on the private split.
+Bronze medal. Private LB 0.943, rank 325 of 6,299 (top 5.2%, final standings after Kaggle's verification);
+public LB 0.959 (rank 218). Both finals and every late candidate scored 0.943 on the private split.
 
 This entry joined in the last ten days of a two-month competition. It is built on the strongest public pipelines
 and adds one component that no public notebook had: a CoAtNet model fine-tuned with expert MRI readings from the

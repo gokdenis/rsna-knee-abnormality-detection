@@ -4,7 +4,7 @@ Solution code and notes for the Kaggle [RSNA Knee Abnormality Detection](https:/
 competition (2026): predict 12 abnormalities per knee MRI study, scored by macro ROC AUC.
 
 **Result: bronze medal. Private LB 0.943, rank 325 of 6,299 teams (top 5.2%, final standings). Public LB 0.959.**
-Built in the last ten days of a two-month competition, on Kaggle GPUs plus about $50 of rented GPU time.
+Built in the last ten days of a two-month competition, on Kaggle GPUs plus under $50 of rented GPU time.
 
 ## What this repo shows
 
